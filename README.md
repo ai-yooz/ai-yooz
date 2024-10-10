@@ -2,7 +2,6 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ai-yooz&style=flat-square&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/ai-yooz?style=flat-square)
-![GitHub Fork](https://img.shields.io/github/forks/ai-yooz?style=flat-square)
 [![GitHub Followers](https://img.shields.io/github/followers/ai-yooz?style=flat-square)](https://github.com/ai-yooz?tab=followers)
 
 ## Welcome to Yooz!
