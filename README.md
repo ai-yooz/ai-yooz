@@ -1,6 +1,8 @@
-# Yooz Language Markup System 🌐
+# Yooz AI Language Markup System 🌐
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=ai-yooz&style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/ai-yooz?style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/ai-yooz?style=flat-square)
 
 ## Welcome to Yooz!
 
@@ -11,10 +13,3 @@
 - 🗣 **Dynamic Responses**: Generate contextually relevant responses with pattern matching.
 - 🛠 **Customizable Syntax**: Tailor responses using custom variables and keyword categories.
 - 🔗 **Flexible Integration**: Ready for integration into various AI-driven systems and platforms.
-
-## Stats:
-- **🌟 Stars**: ![GitHub Stars](https://img.shields.io/github/stars/ai-yooz?style=flat-square)
-- **🍴 Forks**: ![GitHub Forks](https://img.shields.io/github/forks/ai-yooz?style=flat-square)
-- **📥 Downloads**: ![GitHub Downloads](https://img.shields.io/github/downloads/ai-yooz/js-parse/total?style=flat-square)
-
----
